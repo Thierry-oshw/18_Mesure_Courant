@@ -1,0 +1,7 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 C3 ,2,"100nF","Capacitor_SMD:C_0603_1608Metric","C14663"
+C2 ,1,"10uF","Capacitor_SMD:C_1210_3225Metric","C337485"
+C4 ,1,"1nF","Capacitor_SMD:C_0603_1608Metric","C1588"
+J1 J2 J3 J4 J5 J6 J7 ,7,"Conn_01x01","Chimere:Castellated_conn","~"
+R1 ,1,"1k","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C21190"
+U1 ,1,"ACS712xLCTR-20A","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","C10681"
