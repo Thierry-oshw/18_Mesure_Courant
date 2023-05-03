@@ -1,4 +1,4 @@
-20572092084845115
+20573792288317818
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6467,6 +6467,13 @@ Controller_CAN_H
 0
 9
 8
+Chimere_mods
+Mesure_Courant_H
+Mesure courant smd
+
+0
+12
+6
 Chimere_mods
 X_CAN_H
 
