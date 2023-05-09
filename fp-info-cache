@@ -1,4 +1,242 @@
-20573792288317818
+20573840877020963
+0_Chimere_comps
+ARDUINO_MICRO_SCKT
+
+ARDUINO, MICRO socket
+0
+34
+34
+0_Chimere_comps
+Adafruit_UDA1334
+
+
+0
+19
+19
+0_Chimere_comps
+CONV_R-629.0P
+
+
+0
+12
+12
+0_Chimere_comps
+CONV_V78E03-1000-SMT-TR
+
+
+0
+8
+8
+0_Chimere_comps
+K1-1506SN-01
+
+
+0
+6
+6
+0_Chimere_comps
+LED_RGB_4020
+
+
+0
+4
+4
+0_Chimere_comps
+L_Sunlord_MWSA0402S_4.2x4.4x2.0mm
+Inductor, Sunlord, MWSA0402S, 4.2mmx4.4mm
+inductor Sunlord smd
+0
+2
+2
+0_Chimere_comps
+L_Sunlord_MWSA0603S_6.6x7.0x2.8mm
+Inductor, Sunlord, MWSA0518, 6.6mmx7.0mmx2.8mm
+inductor Sunlord smd
+0
+2
+2
+0_Chimere_comps
+MODULE_DFR0299
+
+
+0
+16
+16
+0_Chimere_comps
+MODULE_ESP32-DEVKITC
+
+
+0
+38
+38
+0_Chimere_comps
+PTR901
+
+
+0
+5
+5
+0_Chimere_comps
+RKJXV1220
+
+
+0
+10
+10
+0_Chimere_comps
+SOIC127P600X175-8N
+
+
+0
+8
+8
+0_Chimere_comps
+SOP-8
+
+
+0
+17
+8
+0_Chimere_comps
+SOP65P640X120-8N
+
+
+0
+8
+8
+0_Chimere_comps
+SOT23-6
+
+
+0
+6
+6
+0_Chimere_comps
+SW_MX_LED
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+4
+0_Chimere_comps
+SW_SPDT_KHE_K3-1290S-E1
+Sub-miniature slide switch, right-angle
+switch spdt
+0
+3
+3
+0_Chimere_comps
+USB_C_Receptacle_XKB_U262-16XN-4BVC11
+USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
+USB C Type-C Receptacle SMD
+0
+20
+17
+0_Chimere_comps
+USB_Micro-B_Wuerth_629105150521_CircularHoles
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6
+0_Chimere_comps
+doigt_sw
+switch bouton doigt pcb
+
+0
+4
+2
+0_Chimere_comps
+trou
+
+
+0
+0
+0
+0_Chimere_mods
+Audio_Facile_H
+Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
+Through hole pin header THT 1x01 2.54mm single row castellated hole
+0
+12
+6
+0_Chimere_mods
+Audio_Facile_HP
+Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
+Through hole pin header THT 1x01 2.54mm single row castellated hole
+0
+12
+6
+0_Chimere_mods
+Audio_Facile_HPI
+Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
+Through hole pin header THT 1x01 2.54mm single row castellated hole
+0
+12
+6
+0_Chimere_mods
+Batt_Alim
+Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
+Through hole pin header THT 1x01 2.54mm single row castellated hole
+0
+8
+4
+0_Chimere_mods
+Batt_Alim_4P_HP
+Battery Charger Alimentation Power supply DCDC
+Battery Charger Alimentation Power supply DCDC
+0
+8
+4
+0_Chimere_mods
+Batt_Alim_7P_HP
+Battery Charger Alimentation Power supply DCDC
+Battery Charger Alimentation Power supply DCDC
+0
+14
+7
+0_Chimere_mods
+Cast_co_1_905
+Through hole straight pin header, 2.54mm pitch + castellated hole @1,905mm (3/4)
+Through hole pin header THT 1x01 2.54mm single row castellated hole
+0
+2
+1
+0_Chimere_mods
+Cast_smd
+Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
+Through hole pin header THT 1x01 2.54mm single row castellated hole
+0
+2
+1
+0_Chimere_mods
+Castellated_conn
+Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
+Through hole pin header THT 1x01 2.54mm single row castellated hole
+0
+2
+1
+0_Chimere_mods
+Controller_CAN_H
+
+
+0
+9
+8
+0_Chimere_mods
+Mesure_Courant_H
+Mesure courant smd
+
+0
+14
+7
+0_Chimere_mods
+X_CAN_H
+
+
+0
+7
+6
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6243,244 +6481,6 @@ capacitor tantalum
 0
 2
 2
-Chimere_comps
-ARDUINO_MICRO_SCKT
-
-ARDUINO, MICRO socket
-0
-34
-34
-Chimere_comps
-Adafruit_UDA1334
-
-
-0
-19
-19
-Chimere_comps
-CONV_R-629.0P
-
-
-0
-12
-12
-Chimere_comps
-CONV_V78E03-1000-SMT-TR
-
-
-0
-8
-8
-Chimere_comps
-K1-1506SN-01
-
-
-0
-6
-6
-Chimere_comps
-LED_RGB_4020
-
-
-0
-4
-4
-Chimere_comps
-L_Sunlord_MWSA0402S_4.2x4.4x2.0mm
-Inductor, Sunlord, MWSA0402S, 4.2mmx4.4mm
-inductor Sunlord smd
-0
-2
-2
-Chimere_comps
-L_Sunlord_MWSA0603S_6.6x7.0x2.8mm
-Inductor, Sunlord, MWSA0518, 6.6mmx7.0mmx2.8mm
-inductor Sunlord smd
-0
-2
-2
-Chimere_comps
-MODULE_DFR0299
-
-
-0
-16
-16
-Chimere_comps
-MODULE_ESP32-DEVKITC
-
-
-0
-38
-38
-Chimere_comps
-PTR901
-
-
-0
-5
-5
-Chimere_comps
-RKJXV1220
-
-
-0
-10
-10
-Chimere_comps
-SOIC127P600X175-8N
-
-
-0
-8
-8
-Chimere_comps
-SOP-8
-
-
-0
-17
-8
-Chimere_comps
-SOP65P640X120-8N
-
-
-0
-8
-8
-Chimere_comps
-SOT23-6
-
-
-0
-6
-6
-Chimere_comps
-SW_MX_LED
-Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-Cherry MX keyswitch 1.00u PCB
-0
-4
-4
-Chimere_comps
-SW_SPDT_KHE_K3-1290S-E1
-Sub-miniature slide switch, right-angle
-switch spdt
-0
-3
-3
-Chimere_comps
-USB_C_Receptacle_XKB_U262-16XN-4BVC11
-USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
-USB C Type-C Receptacle SMD
-0
-20
-17
-Chimere_comps
-USB_Micro-B_Wuerth_629105150521_CircularHoles
-USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
-usb micro receptacle
-0
-9
-6
-Chimere_comps
-doigt_sw
-switch bouton doigt pcb
-
-0
-4
-2
-Chimere_comps
-trou
-
-
-0
-0
-0
-Chimere_mods
-Audio_Facile_H
-Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
-Through hole pin header THT 1x01 2.54mm single row castellated hole
-0
-12
-6
-Chimere_mods
-Audio_Facile_HP
-Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
-Through hole pin header THT 1x01 2.54mm single row castellated hole
-0
-12
-6
-Chimere_mods
-Audio_Facile_HPI
-Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
-Through hole pin header THT 1x01 2.54mm single row castellated hole
-0
-12
-6
-Chimere_mods
-Batt_Alim
-Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
-Through hole pin header THT 1x01 2.54mm single row castellated hole
-0
-8
-4
-Chimere_mods
-Batt_Alim_4P_HP
-Battery Charger Alimentation Power supply DCDC
-Battery Charger Alimentation Power supply DCDC
-0
-8
-4
-Chimere_mods
-Batt_Alim_7P_HP
-Battery Charger Alimentation Power supply DCDC
-Battery Charger Alimentation Power supply DCDC
-0
-14
-7
-Chimere_mods
-Cast_co_1_905
-Through hole straight pin header, 2.54mm pitch + castellated hole @1,905mm (3/4)
-Through hole pin header THT 1x01 2.54mm single row castellated hole
-0
-2
-1
-Chimere_mods
-Cast_smd
-Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
-Through hole pin header THT 1x01 2.54mm single row castellated hole
-0
-2
-1
-Chimere_mods
-Castellated_conn
-Through hole straight pin header, 1x01, 2.54mm pitch, single row + castellated hole
-Through hole pin header THT 1x01 2.54mm single row castellated hole
-0
-2
-1
-Chimere_mods
-Controller_CAN_H
-
-
-0
-9
-8
-Chimere_mods
-Mesure_Courant_H
-Mesure courant smd
-
-0
-12
-6
-Chimere_mods
-X_CAN_H
-
-
-0
-7
-6
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill

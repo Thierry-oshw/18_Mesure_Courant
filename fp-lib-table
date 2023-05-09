@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name Chimere_comps)(type KiCad)(uri $KI_GITHUB/00_chimere_lib/chimere_comps.pretty)(options "")(descr ""))
-  (lib (name Chimere_mods)(type KiCad)(uri $KI_GITHUB/00_chimere_lib/chimere_mods.pretty)(options "")(descr ""))
+  (lib (name "0_Chimere_comps")(type "KiCad")(uri "$KI_GITHUB/00_chimere_lib/chimere_comps.pretty")(options "")(descr ""))
+  (lib (name "0_Chimere_mods")(type "KiCad")(uri "$KI_GITHUB/00_chimere_lib/chimere_mods.pretty")(options "")(descr ""))
 )
